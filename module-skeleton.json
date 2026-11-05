@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-white-label-flutter",
+  "capabilityKey": "liberusoftware/module-crm-white-label",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_white_label_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/white-label.md",
+  "presentationPlan": "projects/crm/flutter/white-label.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
